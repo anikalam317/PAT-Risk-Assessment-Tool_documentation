@@ -1,0 +1,7 @@
+Assessment [Score],Risk & Mitigation Strategies
+Acceptable – Low Risk,Risk: Unlikely to face significant issues.
+[Score: >50],Mitigation: Normal method development lifecycle anticipated.
+Acceptable – Moderate Risk,Risk: Quantitation of the method (linearity or accuracy) may not be optimal.
+[>20 & <=50],Mitigation: Secure materials and accelerate additional experimentation (SOS approaches) to further explore method options (More complex calibration approaches or Raman).
+Not Acceptable - High Risk,"Risk: Several method requirements not likely to be met (sensitivity, specificity, LOD, linearity, accuracy etc). "
+[<=20],"Mitigation: Significant experimentation required. Consider a higher drug loading, reformulation and/or significant evaluation of other sensors or approaches (Raman, LIF, off-line contingency). "

@@ -1,0 +1,6 @@
+project:
+    name: PAT Risk Assessment Tool
+    copyright: 2022
+    authors: 'Md Anik Alam, Brent Maranzano, Andy Blanchard'
+    release: 0.1
+    scriptsFolder: pythonScripts
